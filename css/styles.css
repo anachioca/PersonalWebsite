@@ -43,11 +43,24 @@ h2 {
     color: #FF8086;
     font-family: 'Montserrat', sans-serif;
     font-size: 1.5rem;
+    padding-bottom: 10px;
 }
 
 h3 {
     color: #FF8086;
     font-family: 'Montserrat', sans-serif;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+}
+
+.contact-msg {
+    width: 30%;
+    margin: 40px auto 60px;
+    line-height: 2;
 }
 
 .TopContainer {
